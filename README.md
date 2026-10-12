@@ -27,15 +27,5 @@
 
 ---
 
-### 🚀 Projects
-
-#### 🚤 [USV Workspace](https://github.com/leegyeong)
-> **ROS-based workspace for unmanned surface vehicle development**  
-> 무인 수상정(USV) 개발을 위한 ROS 기반 워크스페이스로, 구성 요소 간 통신 체계 구축 및 자율 운항 해양 시스템을 위한 소프트웨어 기반을 다졌습니다.
-
----
-
-### 📊 GitHub Stats
-
 ![leegyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=leegyeong&show_icons=true&theme=flat&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegyeong&layout=compact&theme=flat&hide_border=true)
