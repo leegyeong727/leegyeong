@@ -2,14 +2,14 @@
 
 ---
 
-### 📌 About Me
+### About Me
 - 🎓 **Major:** embedded systemt, Industrial Engineering
 - 🔭 **Interest:** server, 임베디드 제어 시스템, ROS , C/C++ 시스템 프로그래밍
 - 📫 **Contact:** `kimleegyeong@inu.ac.kr`
 
 ---
 
-### 🛠 Tech Stack & Environment
+### Tech Stack & Environment
 
 **Languages & Frameworks**  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
