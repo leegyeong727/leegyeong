@@ -1,14 +1,11 @@
-# Hi there, I'm leegyeong 👋
-
-> **Embedded Systems Engineering Student**  
-> 하드웨어와 소프트웨어를 잇는 임베디드 시스템 엔지니어입니다.
+**Embedded Systems Engineering Student**  
 
 ---
 
 ### 📌 About Me
-- 🎓 **Major:** 인천대학교 임베디드시스템공학과
-- 🔭 **Interest:** 임베디드 제어 시스템, ROS 기반 메카트로닉스, C/C++ 시스템 프로그래밍
-- 📫 **Contact:** `your_email@example.com`
+- 🎓 **Major:** embedded systemt, Industrial Engineering
+- 🔭 **Interest:** server, 임베디드 제어 시스템, ROS , C/C++ 시스템 프로그래밍
+- 📫 **Contact:** `kimleegyeong@inu.ac.kr`
 
 ---
 
