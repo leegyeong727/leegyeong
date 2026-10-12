@@ -24,8 +24,3 @@
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-0696D7?style=flat-square&logo=autodesk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-![leegyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=leegyeong&show_icons=true&theme=flat&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegyeong&layout=compact&theme=flat&hide_border=true)
