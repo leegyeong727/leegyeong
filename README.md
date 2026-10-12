@@ -3,9 +3,9 @@
 ---
 
 ### About Me
-- 🎓 **Major:** embedded systemt, Industrial Engineering
-- 🔭 **Interest:** server, 임베디드 제어 시스템, ROS , C/C++ 시스템 프로그래밍
-- 📫 **Contact:** `kimleegyeong@inu.ac.kr`
+- **Major:** embedded systemt, Industrial Engineering
+- **Interest:** server, 임베디드 제어 시스템, ROS , C/C++ 시스템 프로그래밍
+- **Contact:** `kimleegyeong@inu.ac.kr`
 
 ---
 
